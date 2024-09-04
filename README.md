@@ -6,6 +6,7 @@ Practising Question
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/mohd-ch/LeetCode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/mohd-ch/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/mohd-ch/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/mohd-ch/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -16,9 +17,14 @@ Practising Question
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/mohd-ch/LeetCode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/mohd-ch/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/mohd-ch/LeetCode/tree/master/2491-smallest-even-multiple) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mohd-ch/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
