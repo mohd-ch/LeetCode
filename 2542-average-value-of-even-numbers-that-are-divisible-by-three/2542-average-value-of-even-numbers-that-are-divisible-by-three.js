@@ -14,6 +14,5 @@ var averageValue = function(nums) {
     if(count === 0){
         return 0;
     }
-    let average = Math.floor(sum / count);
-    return average; 
+    return Math.floor(sum / count); 
 };
