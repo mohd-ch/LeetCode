@@ -32,6 +32,7 @@ Practising Question
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mohd-ch/LeetCode/tree/master/0412-fizz-buzz) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohd-ch/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -40,4 +41,8 @@ Practising Question
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-ch/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohd-ch/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
