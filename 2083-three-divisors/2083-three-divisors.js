@@ -12,8 +12,5 @@ var isThree = function(n) {
             return false;
         }
     }
-    
     return count === 1;
-    
-    
 };
