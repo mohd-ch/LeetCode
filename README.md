@@ -7,6 +7,7 @@ Practising Question
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mohd-ch/LeetCode/tree/master/0412-fizz-buzz) |
+| [2083-three-divisors](https://github.com/mohd-ch/LeetCode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/mohd-ch/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/mohd-ch/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mohd-ch/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -27,6 +28,7 @@ Practising Question
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/mohd-ch/LeetCode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/mohd-ch/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
@@ -45,4 +47,8 @@ Practising Question
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohd-ch/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/mohd-ch/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
