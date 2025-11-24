@@ -10,6 +10,7 @@ Practising Question
 | [2083-three-divisors](https://github.com/mohd-ch/LeetCode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/mohd-ch/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/mohd-ch/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohd-ch/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mohd-ch/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/mohd-ch/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Array
@@ -17,6 +18,7 @@ Practising Question
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-ch/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/mohd-ch/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohd-ch/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mohd-ch/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3311-ant-on-the-boundary](https://github.com/mohd-ch/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
