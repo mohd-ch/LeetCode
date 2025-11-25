@@ -19,6 +19,7 @@ Practising Question
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-ch/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/mohd-ch/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mohd-ch/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/mohd-ch/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohd-ch/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mohd-ch/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3311-ant-on-the-boundary](https://github.com/mohd-ch/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -48,6 +49,7 @@ Practising Question
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-ch/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mohd-ch/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/mohd-ch/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Stack
 |  |
 | ------- |
@@ -56,4 +58,9 @@ Practising Question
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/mohd-ch/LeetCode/tree/master/2083-three-divisors) |
+| [2367-number-of-arithmetic-triplets](https://github.com/mohd-ch/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+## Hash Table
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/mohd-ch/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
