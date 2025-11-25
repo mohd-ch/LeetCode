@@ -4,9 +4,10 @@ class Solution:
         for i in nums:
             for j in nums:
                 for k in nums:
-                    if(j - i) == diff :
-                        if(k - j) == diff :
-                            count += 1
+                    if(i < j < k ):
+                        if(j - i) == diff :
+                            if(k - j) == diff :
+                                count += 1
         return count
 
         
